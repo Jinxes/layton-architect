@@ -1,4 +1,8 @@
 {
+    "name": "layton/layton-architect",
+    "description": "A recommendation architecture for layton php framework.",
+    "type": "project",
+    "license": "MIT",
     "require": {
         "layton/layton": "dev-master"
     },
